@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-01T03:05:39.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="HwI4DucgF8H4kS1DsS0R" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-01T03:06:27.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="cEbj6kvKFzVUc6aMsxmN" version="22.1.16" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1711" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1867" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,25 +9,25 @@
             <mxRectangle x="50" y="90" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ObPVooxc1lWdbL7OaAck-4" value="&lt;h1 style=&quot;box-sizing: border-box; break-inside: avoid; orphans: 4; font-size: var(--title-font-size); margin-top: 1rem; margin-bottom: 1rem; position: relative; font-weight: var(--strong-weight); font-family: var(--heading-Latin-font), var(--title-Chinese-font), serif; column-span: all; counter-reset: h2 0; color: rgb(51, 51, 51); break-after: avoid !important;&quot; class=&quot;md-end-block md-heading md-focus&quot;&gt;设备连接与管理模块&lt;br&gt;&lt;/h1&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ObPVooxc1lWdbL7OaAck-4" value="&lt;h1 style=&quot;box-sizing: border-box; break-inside: avoid; orphans: 4; font-size: var(--title-font-size); margin-top: 1rem; margin-bottom: 1rem; position: relative; font-weight: var(--strong-weight); font-family: var(--heading-Latin-font), var(--title-Chinese-font), serif; column-span: all; counter-reset: h2 0; color: rgb(51, 51, 51); break-after: avoid !important;&quot; class=&quot;md-end-block md-heading md-focus&quot;&gt;设备连接与管理模块&lt;br&gt;&lt;/h1&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="40" y="70" width="320" height="180" as="geometry">
             <mxRectangle x="50" y="90" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ObPVooxc1lWdbL7OaAck-5" value="&lt;h1 style=&quot;box-sizing: border-box; break-inside: avoid; orphans: 4; font-size: var(--title-font-size); margin-top: 1rem; margin-bottom: 1rem; position: relative; font-weight: var(--strong-weight); font-family: var(--heading-Latin-font), var(--title-Chinese-font), serif; column-span: all; counter-reset: h2 0; color: rgb(51, 51, 51); break-after: avoid !important;&quot; class=&quot;md-end-block md-heading md-focus&quot;&gt;数据处理与分析模块&lt;br&gt;&lt;/h1&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ObPVooxc1lWdbL7OaAck-5" value="&lt;h1 style=&quot;box-sizing: border-box; break-inside: avoid; orphans: 4; font-size: var(--title-font-size); margin-top: 1rem; margin-bottom: 1rem; position: relative; font-weight: var(--strong-weight); font-family: var(--heading-Latin-font), var(--title-Chinese-font), serif; column-span: all; counter-reset: h2 0; color: rgb(51, 51, 51); break-after: avoid !important;&quot; class=&quot;md-end-block md-heading md-focus&quot;&gt;数据处理与分析模块&lt;br&gt;&lt;/h1&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="410" y="70" width="320" height="180" as="geometry">
             <mxRectangle x="50" y="90" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ObPVooxc1lWdbL7OaAck-6" value="&lt;h1 style=&quot;box-sizing: border-box; break-inside: avoid; orphans: 4; font-size: var(--title-font-size); margin-top: 1rem; margin-bottom: 1rem; position: relative; font-weight: var(--strong-weight); font-family: var(--heading-Latin-font), var(--title-Chinese-font), serif; column-span: all; counter-reset: h2 0; color: rgb(51, 51, 51); break-after: avoid !important;&quot; class=&quot;md-end-block md-heading md-focus&quot;&gt;后端-云计算与边缘计算模块&lt;br&gt;&lt;/h1&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="ObPVooxc1lWdbL7OaAck-6" value="&lt;h1 style=&quot;box-sizing: border-box; break-inside: avoid; orphans: 4; font-size: var(--title-font-size); margin-top: 1rem; margin-bottom: 1rem; position: relative; font-weight: var(--strong-weight); font-family: var(--heading-Latin-font), var(--title-Chinese-font), serif; column-span: all; counter-reset: h2 0; color: rgb(51, 51, 51); break-after: avoid !important;&quot; class=&quot;md-end-block md-heading md-focus&quot;&gt;后端-云计算与边缘计算模块&lt;br&gt;&lt;/h1&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
           <mxGeometry x="180" y="360" width="370" height="210" as="geometry">
             <mxRectangle x="50" y="90" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ObPVooxc1lWdbL7OaAck-7" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="ObPVooxc1lWdbL7OaAck-6">
+        <mxCell id="ObPVooxc1lWdbL7OaAck-7" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="ObPVooxc1lWdbL7OaAck-6" vertex="1">
           <mxGeometry x="40" y="110" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ObPVooxc1lWdbL7OaAck-8" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="ObPVooxc1lWdbL7OaAck-6">
+        <mxCell id="ObPVooxc1lWdbL7OaAck-8" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="ObPVooxc1lWdbL7OaAck-6" vertex="1">
           <mxGeometry x="190" y="50" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
